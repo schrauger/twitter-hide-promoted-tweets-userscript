@@ -20,7 +20,7 @@ jQuery(function () {
 	.html("\
 		li.has-profile-promoted-tweet, \
 		div.suggested-tweet-stream-container {\
-		display: none;\
-	}")
+			display: none;\
+		}")
 	.appendTo("head");
 });
