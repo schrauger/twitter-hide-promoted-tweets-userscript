@@ -8,6 +8,7 @@ It adds a css rule to hide the promoted tweets. It is cross-browser compatible, 
 The easiest way to install the script is to first have [GreaseMonkey][greasemonkey] ([Firefox][gm_firefox]) or [TamperMonkey][tampermonkey] ([Chrome][tm_chrome], [Safari][tm_safari], [Opera][tm_opera]). If you have those addons installed already, simply [open the script][script] and follow the prompts to install it.
 
 For more detailed steps, [follow these instructions][instructions] for your particular browser.
+
 [greasemonkey]: http://www.greasespot.net/
 [gm_firefox]: https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/
 [tampermonkey]: https://tampermonkey.net/index.php
